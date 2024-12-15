@@ -8,3 +8,7 @@
 ## Huom! Linkit tarkoitettu windows-koneelle
 
 
+## Hyvä nettisivu ohjelmoinnin alkeisiin:
+# https://tie.koodariksi.fi/alkeet
+
+
