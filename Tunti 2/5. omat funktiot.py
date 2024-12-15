@@ -13,6 +13,6 @@ def toivota_hyvää_syntymäpäivää(nimi):
     print("Hyvää syntymäpäivää", nimi)
 
 
-toivota_hyvää_syntymäpäivää(input("Anna nimkesi: "))
+toivota_hyvää_syntymäpäivää(input("Anna nimesi: "))
 
 
