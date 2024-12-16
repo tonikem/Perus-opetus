@@ -1,0 +1,17 @@
+[
+    {
+        "nimi": "Ohjelmoinnin perusteet",
+        "tunnus": "Ohpe",
+        "periodit": [1, 3]
+    },
+    {
+        "nimi": "Ohjelmoinnin jatkokurssi",
+        "tunnus": "Ohja",
+        "periodit": [2, 4]
+    },
+    {
+        "nimi": "Tietokantasovellus",
+        "tunnus": "Tsoha",
+        "periodit": [1, 2, 3, 4]
+    }
+]
