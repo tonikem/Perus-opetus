@@ -6,15 +6,23 @@ lista = []
 for item in lista:
     print("item:", item)
 else:
-    print("Lista oli tyhjä, ei printattavaa..")
+    print("Tämä tulostetaan kuitenkin.\n")
 
 
-lista = [3, 5, 9, 7, 1]
+lista = [1, 6, 9]
+
+for item in lista:
+    print("item:", item)
+else:
+    print("Tämä tulostetaan kuitenkin.\n")
+
+
+lista = [3, 5, 9, 6, 1]
 
 for x in lista:
     if x % 2 == 0:
         print("löytyi parillinen", x)
-        break
+        break  # <- Tässä kohtaa poistutaan silmukasta, joten else-osio ei tee mitään.
 else:
     print("ei löytynyt parillista.")
 
